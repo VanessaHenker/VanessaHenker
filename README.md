@@ -28,6 +28,6 @@ Olá! Eu sou a Vanessa Henker
 </div>
 
 
-![snake gif](https://github.com/VanessaHenker/VanessaHenker/blob/output/github-contribution-grid-snake.svg)
+
 
 
