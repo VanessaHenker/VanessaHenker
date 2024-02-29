@@ -7,7 +7,9 @@ Olá! Eu sou a Vanessa Henker 🌸
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VanessaHenker&layout=compact&langs_count=8&card_width=320" />
 </a>
 <div style="display: inline_block"><br>
-  <img align="center" alt="vanessa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="vanessa-C++" height="40" width="40" src="https://github.com/VanessaHenker/VanessaHenker/assets/133284383/a3988974-742c-4f20-9eca-49671500682a">
+ 
+
   <img align="right" alt="vanessa"  height = "150" width = "150" src="https://github.com/VanessaHenker/VanessaHenker/assets/133284383/c2b26697-0db3-47b0-b5f6-730e0dce0f24">
 </div>
 
