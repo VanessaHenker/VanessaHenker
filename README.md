@@ -1,12 +1,11 @@
-Olá! Eu sou a Vanessa Henker 🌸
+  Olá! Eu sou a Vanessa Henker 🌸
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carolbarbosa101&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Vanessa Henker github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaHenker&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=VanessaHenker" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VanessaHenker&layout=compact&langs_count=8&card_width=320" />
-</a>
-<div style="display: inline_block"><br>
+
+ <div style="display: inline_block"><br>
   <img align="center" alt="vanessa-C++" height="40" width="40" src="https://github.com/VanessaHenker/VanessaHenker/assets/133284383/a3988974-742c-4f20-9eca-49671500682a">
  
 
