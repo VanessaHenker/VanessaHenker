@@ -1,15 +1,13 @@
   Olá! Eu sou a Vanessa Henker 🌸
 <div align="center">  
-  <img width="52%" height="199px" src="https://github-readme-stats.vercel.app/api?username=VanessaHenker&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Vanessa Henker github stats" /> 
+  <img width="%" height="199px" src="https://github-readme-stats.vercel.app/api?username=VanessaHenker&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Vanessa Henker github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaHenker&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 
  <div style="display: inline_block"><br>
   <img align="center" alt="vanessa-C++" height="40" width="40" src="https://github.com/VanessaHenker/VanessaHenker/assets/133284383/a3988974-742c-4f20-9eca-49671500682a">
- 
-
-  <img align="right" alt="vanessa"  height = "150" width = "150" src="https://github.com/VanessaHenker/VanessaHenker/assets/133284383/c2b26697-0db3-47b0-b5f6-730e0dce0f24">
+ <img align="right" alt="vanessa"  height = "150" width = "150" src="https://github.com/VanessaHenker/VanessaHenker/assets/133284383/c2b26697-0db3-47b0-b5f6-730e0dce0f24">
 </div>
 
 ##
@@ -22,8 +20,3 @@
   
   </a> 
 </div>
-
-
-
-
-
