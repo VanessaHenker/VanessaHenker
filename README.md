@@ -28,4 +28,4 @@
   </a> 
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=110&section=footer"/>
-![Snake animation](https://github.com/VanessaHenker/VanessaHenker/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/gabrielbolzani/gabrielbolzani/blob/output/github-contribution-grid-snake.svg)
