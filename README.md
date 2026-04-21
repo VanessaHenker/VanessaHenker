@@ -10,18 +10,16 @@
 </div>
 
 
- <div style="display: inline_block"><br>
-   <img align="center" alt="vanessa-HTML " height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Vanessa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="vanessa-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="vanessa-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="vanessa-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-   <img align="center" alt="vanessa-SQL" height="45" width="45" src="https://img.icons8.com/color/48/sql.png">
-   <img align="center" alt="vanessa-MySQL" height="40" width="40" src="https://www.pngkey.com/png/detail/339-3393681_mysql-logo-png-mysql-dolphin.png">
-   <img align="center" alt="vanessa-C++" height="40" width="40" src="https://github.com/VanessaHenker/VanessaHenker/assets/133284383/a3988974-742c-4f20-9eca-49671500682a">
- </div>
-
-##
+ <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+   <img alt="vanessa-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img alt="Vanessa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img alt="vanessa-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img alt="vanessa-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img alt="vanessa-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+   <img alt="vanessa-SQL" height="45" width="45" src="https://img.icons8.com/color/48/sql.png">
+   <img alt="vanessa-MySQL" height="40" width="40" src="https://www.pngkey.com/png/detail/339-3393681_mysql-logo-png-mysql-dolphin.png">
+   <img alt="vanessa-C++" height="40" width="40" src="https://github.com/VanessaHenker/VanessaHenker/assets/133284383/a3988974-742c-4f20-9eca-49671500682a">
+</div>
 
 <p align="left">
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
