@@ -21,15 +21,6 @@
    <img alt="vanessa-C++" height="40" width="40" src="https://github.com/VanessaHenker/VanessaHenker/assets/133284383/a3988974-742c-4f20-9eca-49671500682a">
 </div>
 
-<p align="left">
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=110&section=footer"/>
 
