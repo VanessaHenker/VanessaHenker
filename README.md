@@ -23,7 +23,7 @@
 
 ##
 
-<div> 
+<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;"> 
   <a href="https://www.linkedin.com/in/vanessahenker/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -39,6 +39,7 @@
   <a href="https://instagram.com/vanessa_henker" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+</div>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=110&section=footer"/>
