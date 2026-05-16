@@ -2,15 +2,28 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
+
 <!-- ==================== TYPING EFFECT ==================== -->
 
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=34&center=true&vCenter=true&width=900&lines=Seja+bem-vindo(a)+ao+meu+universo;Onde+ideias+ganham+forma+na+web"/>
+
 </div>
 
 <br>
 
+<!-- ==================== PORTFÓLIO CTA ==================== -->
+
+<div align="center">
+
+<a href="https://portifolio-vanessa-nine.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🚀%20Acessar%20meu%20Portfólio-ff91a4?style=for-the-badge"/>
+</a>
+
+</div>
+
+<br>
 <!-- ==================== ABOUT ==================== -->
 
 <div align="center">
@@ -29,6 +42,20 @@
 <br>
 
 <img width="200px" src="./assets/ezgif.com-resize.gif"/>
+
+</div>
+
+<br><br>
+
+<!-- ==================== PORTFÓLIO SECUNDÁRIO ==================== -->
+
+<div align="center">
+
+<h2>🌐 Meu Portfólio</h2>
+
+<a href="https://portifolio-vanessa-nine.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Ver%20Projeto-ff91a4?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
 
@@ -96,6 +123,10 @@
 <h2>🌐 Contato</h2>
 
 <br>
+
+<a href="https://portifolio-vanessa-nine.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfólio-ff91a4?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/vanessahenker/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=4da6ff"/>
