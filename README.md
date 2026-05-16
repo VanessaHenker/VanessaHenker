@@ -2,7 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-
 <!-- ==================== TYPING EFFECT ==================== -->
 
 <div align="center">
@@ -11,24 +10,19 @@
 
 </div>
 
-<br>
-
-<!-- ==================== PORTFÓLIO CTA ==================== -->
-
-<div align="center">
-
-<a href="https://portifolio-vanessa-nine.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/🚀%20Acessar%20meu%20Portfólio-ff91a4?style=for-the-badge"/>
-</a>
-
-</div>
-
-<br>
 <!-- ==================== ABOUT ==================== -->
 
 <div align="center">
 
 # 👩‍💻 Vanessa Silva
+
+<!-- PORTFÓLIO (POSIÇÃO IDEAL) -->
+
+<a href="https://portifolio-vanessa-nine.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🚀%20Meu%20Portfólio-ff91a4?style=for-the-badge"/>
+</a>
+
+<br><br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF91A4&center=true&vCenter=true&width=260&lines=Front-end+Developer" />
 
@@ -111,7 +105,7 @@
 <br>
 
 <a href="https://portifolio-vanessa-nine.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfólio-ff91a4?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfólio-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/vanessahenker/" target="_blank">
