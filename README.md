@@ -17,12 +17,12 @@
 # 👩‍💻 Vanessa Silva
 
 <!-- PORTFÓLIO (POSIÇÃO IDEAL) -->
-
+<br>
 <a href="https://portifolio-vanessa-nine.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/🚀%20Meu%20Portfólio-ff91a4?style=for-the-badge"/>
 </a>
 
-<br><br>
+<br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF91A4&center=true&vCenter=true&width=260&lines=Front-end+Developer" />
 
