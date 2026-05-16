@@ -47,20 +47,6 @@
 
 <br><br>
 
-<!-- ==================== PORTFÓLIO SECUNDÁRIO ==================== -->
-
-<div align="center">
-
-<h2>🌐 Meu Portfólio</h2>
-
-<a href="https://portifolio-vanessa-nine.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Ver%20Projeto-ff91a4?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
-<br><br>
-
 <!-- ==================== GITHUB ACTIVITY ==================== -->
 
 <div align="center">
