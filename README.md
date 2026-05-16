@@ -72,18 +72,6 @@
 
 <br>
 
-<!-- ==================== GITHUB STATS ==================== -->
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaHenker&show_icons=true&theme=radical&hide_border=true&title_color=ff91a4&icon_color=ff91a4&bg_color=0d1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaHenker&layout=compact&theme=radical&hide_border=true&title_color=ff91a4&bg_color=0d1117"/>
-
-</div>
-
-<br><br>
-
 <!-- ==================== TECH STACK ==================== -->
 
 <div align="center">
