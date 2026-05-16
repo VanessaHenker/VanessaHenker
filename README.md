@@ -17,7 +17,7 @@
 
 # 👩‍💻 Vanessa Silva
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF91A4&width=320&lines=Front-end+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF91A4&center=true&vCenter=true&width=260&lines=Front-end+Developer" />
 
 <br>
 
