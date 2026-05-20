@@ -35,7 +35,7 @@
 
 <br>
 
-<img width="180px" src="./assets/ezgif.com-resize.gif"/>
+<img width="185px" src="./assets/ezgif.com-resize.gif"/>
 
 </div>
 
