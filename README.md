@@ -12,7 +12,7 @@
 
 <!-- ==================== ABOUT ==================== -->
 
-<div align="center">
+<div align="center"> 
 
 # 👩‍💻 Vanessa Silva
 
